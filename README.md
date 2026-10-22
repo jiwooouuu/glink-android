@@ -14,9 +14,9 @@
 
 ## 내려받기
 
-- **Android(arm64):** [GLink-arm64.apk](https://github.com/jiwooouuu/foldremote-android/releases/latest/download/GLink-arm64.apk)
+- **Android(arm64):** [GLink-arm64.apk](https://github.com/jiwooouuu/glink-android/releases/latest/download/GLink-arm64.apk)
 - **회사·집 Windows PC:** 공식 [RustDesk 1.5.0](https://github.com/rustdesk/rustdesk/releases/tag/1.5.0)의 `rustdesk-1.5.0-x86_64.exe`
-- **수정 소스·해시:** [릴리스 페이지](https://github.com/jiwooouuu/foldremote-android/releases/latest)
+- **수정 소스·해시:** [릴리스 페이지](https://github.com/jiwooouuu/glink-android/releases/latest)
 
 Play 프로텍트가 설치를 막을 수 있습니다. PC → 폰 조작에 쓰는 접근성 권한 때문입니다. 이때는 USB 디버깅으로 설치하거나, 앱 스캔을 잠깐 끄고 설치한 뒤 바로 다시 켭니다.
 
